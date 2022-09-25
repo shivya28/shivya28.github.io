@@ -1,0 +1,99 @@
+<html>
+
+<head>
+  <title>about myself</title>
+  <style>
+table {
+  font-family: arial;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  text-align: left;
+  padding: 8px;
+}
+</style>
+</head>
+
+<body>
+  <div id="intro" style="background-color:rgb(127, 188, 210); height:500px;">
+    <div id="intro-content" style="text-align: center; padding: 100px">
+      <img style="width: 260px; height: 260px; border-radius: 100%;" ; src='https://drive.google.com/uc?id=1NIAP8Ag85ismnFdlgpWMGxT5tNy1cQJV' alt=''>'
+      <h1> Shivya Gujral</h1>
+      <h4> Aspiring Fashion Technologist</h4>
+    </div>
+  </div>
+  <div id="about" style="background-color:rgb(225, 255, 238); height:350;">
+
+    <div id="about-content" style="text-align: center; padding: 50px;">
+      <img style="width: 260px; height: 260px;  float:left;" src='https://drive.google.com/uc?id=1NEhotALfkzE_zYn7CTt1n6XPMSRFpby4' alt=''>
+      <h2 style="font-family:ariel;">About me</h2>
+
+      <p style="font-family:serif;"> here are some things you should know about me </p>
+      <p>
+      <h3> Hey, I'm Shivya Gujral and I'm pursuing Bachelor of Fashion Technology from NIFT.
+        I love to draw and so fond of technology linked with fashion and in my free time i read books and spend time with my friends and family.</h3>
+      </p>
+    </div>
+  </div>
+<div>
+  <div id="education" style="background-color:rgb(127, 188, 210); height:400;">
+    <div id="about-education" style="text-align: center; padding: 100px">
+      <h1 style=text-allign:center;> Education </h1>
+<table>
+  <tr>
+    <th>Class</th>
+    <th>Board</th>
+    <th>Place</th>
+  </tr>
+  <tr>
+    <td>10th</td>
+    <td>ICSE</td>
+    <td>Nahan</td>
+  </tr>
+   <tr>
+    <td>12th</td>
+    <td>HP Board</td>
+    <td>Solan</td>
+  </tr>
+  <tr>
+    <td>UG</td>
+    <td>NIFT</td>
+    <td>Panchkula</td>
+  </tr>
+</table>
+    </div>
+  </div>
+</div>
+  <div>
+    <div id="contact" style="background-color:beige; height:400;">
+    <div id="about-contact" style="text-align: center; padding: 100px">
+      <h1 style=text-allign:center;> Contact Info </h1>
+      <div id="contact-info" style="text-align: center; float:left;">
+        <a href="google.com"><img style="width: 100px; height: 100px; border-radius:100%;" src='https://drive.google.com/uc?id=1MoXx7j8qN9IU5NawfDiv0Vv_lYPA1BgB' alt=''></a>
+
+        <a href="https://instagram.com/shivya_gujral" target="_blank"><img style="width: 100px; height: 100px; border-radius:100%;  float:left;" src='https://drive.google.com/uc?id=1MsQVhlqtQ8PZhJ41LuJ8OVB74l8EJ8dZ' alt=''></a>
+
+        <a href="https://www.facebook.com/shivya.gujral.1"> <img style="width: 100px; height: 100px; border-radius:100%;" src='https://drive.google.com/uc?id=1Mt-rLGRw1dCkpVs2HncCo-OKGTK72ROM' alt=''></a>
+
+        <a href="https://www.snapchat.com/add/shivyagujral28?share_id=JtxQXvmaWBQ&locale=en-IN"> <img style="width: 100px; height: 100px; border-radius:100%;" src='https://drive.google.com/uc?id=1MvxG6QqcqAoKkA9MQiMkDujv1WAoIXH_' alt=''></a>
+        <a href="https://www.gmail.com/add/shivya.gujral@nift.ac.in"> <img style="width;100px; height:100px; border radius:100%;" src='https://drive.google.com/uc?id=1NK25a-2gnJcEoCKTsBWAZXN4-UrilI89' alt=''></a>
+        </div>
+<div>
+  <div id="Feedback" style="background-color:rgb(127, 188, 210); height:400;">
+    <div id="about-feedback" style="text-align: center; padding: 100px">
+      <h1 style=text-allign:center;> Feedback </h1>
+<form action="/action_page.php">
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname" value=""><br>
+  <label for="fback">Feedback:</label><br>
+  <input type="text" id="fback" name="fback" value=""><br><br>
+  <input type="submit" value="Submit">
+</form>
+</div>
+<iframe width="560" height="315" src="https://youtu.be/zx0YGEi32r0" frameborder="0" allowfullscreen></iframe>
+      </iframe>
+</body>
+
+</html>
